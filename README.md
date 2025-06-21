@@ -33,8 +33,8 @@ A mini fullstack project simulating a **5-star hotel management system** with ro
 
 | Screen | Description |
 |--------|-------------|
-| ![hotel launch](https://github.com/user-attachments/assets/e2c88e5d-066b-4384-b7f3-ca33f34b486b) | Landing page (admin/staff/customer) |
-|![image](https://github.com/user-attachments/assets/1479cb4f-ba73-48fd-a9d5-9e60ee1031be)  | Role-specific interface with cards |
+
+|![image](https://github.com/user-attachments/assets/1479cb4f-ba73-48fd-a9d5-9e60ee1031be)  | Landing page (admin/staff/customer) |
 
 
 ---
