@@ -4,6 +4,9 @@ A mini fullstack project simulating a **5-star hotel management system** with ro
 
 > ✅ Built with modern frontend design and modular backend logic for easy extension and team contribution.
 
+
+![logo hotel](https://github.com/user-attachments/assets/591a7eab-41b8-4176-be13-a53e6ea4d07c)
+
 ---
 
 ## 🌟 Features
